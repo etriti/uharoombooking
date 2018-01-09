@@ -1,0 +1,5 @@
+Toute la documentation de l'installation et de la mise en place de de la base de données
+se trouve dans de fichier "install.php".
+Pour y acceder, il faut se rendre dans le dossier "base_de_donnee".
+Dans ce même dossier se trouve le fichier sql (mrbs.sql) qu'il faudra importer dans la base de données.
+Donc rendez vous: base_de_donnee/install.php
